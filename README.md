@@ -69,4 +69,4 @@
   </a> 
 </p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eltab3e&show_icons=true&title_color=000000&locale=en&layout=compact" alt="eltab3e" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eltab3e&show_icons=true&theme=dark&title_color=ffffff&locale=en&layout=compact" alt="eltab3e" />
