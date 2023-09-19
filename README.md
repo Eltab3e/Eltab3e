@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed.</h1>
-<h3 align="left">A self-taught front-end developer with a passion for creating visually appealing user experiences.</h3>
+<h3 align="center">A self-taught front-end developer with a passion for creating visually appealing user experiences.</h3>
 
 - 🌱 I’m currently learning **Next.js, TypeScript and Three.js**
 
@@ -13,7 +13,7 @@
 <img src="https://drive.google.com/uc?id=16UIkRA7SlxXSj0YX-l5J20Ywq3aX2QYY" alt="portfolio-image" width="900">
 
 <h3 align="left">Tech Stack:</h3>
-<p align="left">
+<p align="center">
 <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=black&labelColor=#E34F26" height="30" />
 <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=black&labelColor=#1572B6" height="30" />
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&labelColor=#F7DF1E" height="30" />
