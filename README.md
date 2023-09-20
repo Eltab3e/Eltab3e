@@ -6,8 +6,6 @@
   
 </div>
 
-<h3 align="center">A self-taught front-end developer with a passion for creating visually appealing user experiences.</h3>
-
 - 🌱 I’m currently learning **Next.js, TypeScript and Three.js**
 
 - 💬 Ask me about **React, Animations and Accessibility.**
