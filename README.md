@@ -1,4 +1,11 @@
-<h1 align="center">Hi 👋, I'm Ahmed.</h1>
+<h1 align="center">Hi 👋 I'm Ahmed.</h1>
+
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&duration=5000&pause=500&color=F7D433&center=true&vCenter=true&width=435&lines=Front-End+Developer+%F0%9F%92%BB)](https://git.io/typing-svg)
+  
+</div>
+
 <h3 align="center">A self-taught front-end developer with a passion for creating visually appealing user experiences.</h3>
 
 - 🌱 I’m currently learning **Next.js, TypeScript and Three.js**
