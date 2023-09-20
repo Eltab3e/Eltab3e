@@ -7,7 +7,7 @@
 
 - 📫 Reach me via E-mail: **ahmed.eltabiie@gmail.com**
 
-- 📄 Know about my experiences via my [Resume](https://drive.google.com/file/d/15y54caWKnFTTKn-xlbE3txBUbLlseOlw/view) 👨‍💻
+- 📄 Know about my experiences via my <a href="https://drive.google.com/file/d/15y54caWKnFTTKn-xlbE3txBUbLlseOlw/view" target="_blank">Resume</a> 👨‍💻
   
 <img src="https://drive.google.com/uc?id=12sCwoEGpzHzMUd93eNfUHAiQYRT77SXt" alt="portfolio-image" width="900">
 <img src="https://drive.google.com/uc?id=16UIkRA7SlxXSj0YX-l5J20Ywq3aX2QYY" alt="portfolio-image" width="900">
@@ -30,10 +30,10 @@
 
 <h3 align="left">Language stats:</h3>
 <p align="left">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eltab3e&show_icons=true&theme=dark&title_color=ffffff&locale=en&layout=compact" alt="stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eltab3e&show_icons=true&theme=dark&title_color=ffffff&locale=en&layout=compact" alt="stats" />
 </p>
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/aeltabie/" target="blank">
-<img align="center" src="https://img.icons8.com/fluent/48/linkedin.png" alt="linkedin"/>
+    <img align="center" src="https://img.icons8.com/fluent/48/linkedin.png" alt="linkedin"/>
 </a>
