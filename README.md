@@ -7,7 +7,7 @@
 
 - 📫 Reach me via E-mail: **ahmed.eltabiie@gmail.com**
 
-- 📄 Know about my experiences via my <a href="https://drive.google.com/file/d/15y54caWKnFTTKn-xlbE3txBUbLlseOlw/view" target="_blank">Resume</a> 👨‍💻
+- 📄 Know about my experiences via my <a href="https://drive.google.com/file/d/15y54caWKnFTTKn-xlbE3txBUbLlseOlw/view" target="_blank" rel="noopener noreferrer">Resume</a> 👨‍💻
   
 <img src="https://drive.google.com/uc?id=12sCwoEGpzHzMUd93eNfUHAiQYRT77SXt" alt="portfolio-image" width="900">
 <img src="https://drive.google.com/uc?id=16UIkRA7SlxXSj0YX-l5J20Ywq3aX2QYY" alt="portfolio-image" width="900">
