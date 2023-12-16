@@ -14,8 +14,8 @@
 
 - 📄 Know about my experiences via my <a href="https://drive.google.com/file/d/1Je9Z3IWT-wX8E4ISm6FryKikcFFM-R6Q/view" target="_blank" rel="noopener noreferrer">Resume</a> 👨‍💻
   
-<img src="https://drive.google.com/uc?id=12sCwoEGpzHzMUd93eNfUHAiQYRT77SXt" alt="portfolio-image" width="900">
-<img src="https://drive.google.com/uc?id=16UIkRA7SlxXSj0YX-l5J20Ywq3aX2QYY" alt="portfolio-image" width="900">
+<img src="https://drive.google.com/uc?id=1U5Ekzgd0GeyB6Zo9uaYIWyblCDQRRwjJ" alt="portfolio-image" width="900">
+<img src="https://drive.google.com/uc?id=1qsq1q09PzOPxhba-lSp5aWql9WnlTlo4" alt="portfolio-image" width="900">
 
 <h3 align="left">Tech Stack:</h3>
 <p align="center">
