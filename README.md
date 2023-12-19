@@ -12,10 +12,10 @@
 
 - 📫 Reach me via E-mail: **ahmed.eltabiie@gmail.com**
 
-- 📄 Know about my experiences via my <a href="https://drive.google.com/file/d/1Je9Z3IWT-wX8E4ISm6FryKikcFFM-R6Q/view" target="_blank" rel="noopener noreferrer">Resume</a> 👨‍💻
+- 📄 Know about my experiences via my <a href="https://drive.google.com/file/d/1QQZIG3G0yR1Qs7m_sFg6O9BWjvJYiKZ_/view" target="_blank" rel="noopener noreferrer">Resume</a> 👨‍💻
   
-<img src="https://drive.google.com/uc?id=1U5Ekzgd0GeyB6Zo9uaYIWyblCDQRRwjJ" alt="portfolio-image" width="900">
-<img src="https://drive.google.com/uc?id=1qsq1q09PzOPxhba-lSp5aWql9WnlTlo4" alt="portfolio-image" width="900">
+<img src="https://drive.google.com/uc?id=1kPsi-5WLkuF3LLWEY8E3U13p3kWIqnjT" alt="portfolio-image" width="900">
+<img src="https://drive.google.com/uc?id=1WFZFvmxniWL2qansViXwR139BHy1P7m-" alt="portfolio-image" width="900">
 
 <h3 align="left">Tech Stack:</h3>
 <p align="center">
