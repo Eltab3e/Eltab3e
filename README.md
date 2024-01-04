@@ -6,11 +6,11 @@
   
 </div>
 
+- 🔭 Checkout my <a href="https://eltab3e.github.io/Portfolio/" target="_blank">**Website**</a>.
+  
 - 👨‍💻 I’m currently learning **RTK, TypeScript and Three.js**.
 
 - 💬 Ask me about **React, Next.js and Accessibility**.
-
-- 🔭 Checkout my <a href="https://eltab3e.github.io/Portfolio/" target="_blank">**Website**</a>.
 
 - 📄 Know about my experiences via my <a href="https://drive.google.com/file/d/1QQZIG3G0yR1Qs7m_sFg6O9BWjvJYiKZ_/view" target="_blank">**Resume**</a>.
   
