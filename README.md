@@ -6,41 +6,46 @@
   
 </div>
 
-- 🌱 I’m currently learning **Next.js, TypeScript and Three.js**
+- 👨‍💻 I’m currently learning **RTK, TypeScript and Three.js**.
 
-- 💬 Ask me about **React, Animations and Accessibility.**
+- 💬 Ask me about **React, Next.js and Accessibility**.
 
-- 🔭 Checkout my personal website: https://eltab3e.github.io/Portfolio/
+- 🔭 Checkout my <a href="https://eltab3e.github.io/Portfolio/" target="_blank">**Website**</a>.
 
-- 📫 Reach me via E-mail: **ahmed.eltabiie@gmail.com**
-
-- 📄 Know about my experiences via my <a href="https://drive.google.com/file/d/1QQZIG3G0yR1Qs7m_sFg6O9BWjvJYiKZ_/view" target="_blank" rel="noopener noreferrer">Resume</a> 👨‍💻
+- 📄 Know about my experiences via my <a href="https://drive.google.com/file/d/1QQZIG3G0yR1Qs7m_sFg6O9BWjvJYiKZ_/view" target="_blank">**Resume**</a>.
   
-<img src="https://drive.google.com/uc?id=1kPsi-5WLkuF3LLWEY8E3U13p3kWIqnjT" alt="portfolio-image" width="900">
-<img src="https://drive.google.com/uc?id=1WFZFvmxniWL2qansViXwR139BHy1P7m-" alt="portfolio-image" width="900">
+- 📫 Reach me via E-mail: **ahmed.eltabiie@gmail.com**
+  
+<br/>
 
-<h3 align="left">Tech Stack:</h3>
+<div align="left">
+  <img src="https://drive.google.com/uc?id=1kPsi-5WLkuF3LLWEY8E3U13p3kWIqnjT" alt="portfolio-image-1" width="900">
+  <img src="https://drive.google.com/uc?id=1WFZFvmxniWL2qansViXwR139BHy1P7m-" alt="portfolio-image-2" width="900">
+</div>
+
+<h2 align="left">Tech Stack:</h2>
 <p align="center">
-<img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=black&labelColor=#E34F26" height="30" />
-<img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=black&labelColor=#1572B6" height="30" />
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&labelColor=#F7DF1E" height="30" />
-<img src="https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=black&labelColor=#007ACC" height="30" />
-<img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&labelColor=#61DAFB" height="30" />
-<img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&labelColor=#000000" height="30" />
-<img src="https://img.shields.io/badge/-React_Query-FF4154?logo=react-query&logoColor=black&labelColor=#FF4154" height="30" />
-<img src="https://img.shields.io/badge/-Styled_Components-DB7093?logo=styled-components&logoColor=black&labelColor=#DB7093" height="30" />
-<img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=black&labelColor=#38B2AC" height="30" />
-<img src="https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=black&labelColor=#CC6699" height="30" />
-<img src="https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=black&labelColor=#646CFF" height="30" />
-<img src="https://img.shields.io/badge/-Three.js-000000?logo=three.js&logoColor=white&labelColor=#000000" height="30" />
+  <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" height="30" />
+  <img src="https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=black" height="30" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black" height="30" />
+  <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/-React_Query-FF4154?logo=react-query&logoColor=black" height="30" />
+  <img src="https://img.shields.io/badge/-Redux_Toolkit-646CFF?logo=redux&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/-Styled_Components-DB7093?logo=styled-components&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=black" height="30" />
+  <img src="https://img.shields.io/badge/-Three.js-000000?logo=three.js&logoColor=white" height="30" />
 </p>
 
 <h3 align="left">Language stats:</h3>
 <p align="left">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eltab3e&show_icons=true&theme=dark&title_color=ffffff&locale=en&layout=compact" alt="stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eltab3e&show_icons=true&theme=dark&title_color=ffffff&locale=en&layout=compact" alt="stats" />
 </p>
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/aeltabie/" target="blank">
-    <img align="center" src="https://img.icons8.com/fluent/48/linkedin.png" alt="linkedin"/>
-</a>
+  <a align="left" href="https://www.linkedin.com/in/aeltabie/" target="_blank">
+    <img align="left" src="https://img.icons8.com/fluent/48/linkedin.png" alt="linkedin"/>
+  </a>
