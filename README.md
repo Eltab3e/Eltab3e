@@ -31,12 +31,12 @@
   <img src="https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white" height="30" />
   <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black" height="30" />
   <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/-React_Query-FF4154?logo=react-query&logoColor=black" height="30" />
+  <img src="https://img.shields.io/badge/-React_Query-FF4154?logo=react-query&logoColor=white" height="30" />
   <img src="https://img.shields.io/badge/-Redux_Toolkit-646CFF?logo=redux&logoColor=white" height="30" />
   <img src="https://img.shields.io/badge/-Styled_Components-DB7093?logo=styled-components&logoColor=white" height="30" />
   <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" height="30" />
   <img src="https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=black" height="30" />
+  <img src="https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white" height="30" />
   <img src="https://img.shields.io/badge/-Three.js-000000?logo=three.js&logoColor=white" height="30" />
 </p>
 
