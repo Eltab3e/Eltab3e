@@ -2,13 +2,13 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&duration=5000&pause=500&color=F7D433&center=true&vCenter=true&width=435&lines=Front-End+Developer+%F0%9F%92%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&pause=500&color=F7D433&center=true&vCenter=true&random=false&width=435&lines=Front-end+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
   
 </div>
 
 - 🔭 Checkout my <a href="https://eltab3e.github.io/Portfolio/" target="_blank">**Website**</a>.
   
-- 👨‍💻 I’m currently learning **RTK, TypeScript and Three.js**.
+- ⚡ I’m currently learning **RTK, TypeScript and Three.js**.
 
 - 💬 Ask me about **React, Next.js and Accessibility**.
 
