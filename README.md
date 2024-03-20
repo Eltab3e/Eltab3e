@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **React, Next.js and Accessibility**.
 
-- 📄 Know about my experiences via my <a href="https://drive.google.com/file/d/1QQZIG3G0yR1Qs7m_sFg6O9BWjvJYiKZ_/view" target="_blank">**Resume**</a>.
+- 📄 Know about my experiences via my <a href="https://drive.google.com/file/d/1H3zKGvey9L-hwqAtvdU8GxqHdx6RPKoA/view" target="_blank">**Resume**</a>.
   
 - 📫 Reach me via E-mail: **ahmed.eltabiie@gmail.com**
   
