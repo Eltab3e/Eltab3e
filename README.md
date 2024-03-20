@@ -8,13 +8,13 @@
 
 - 🔭 Checkout my <a href="https://eltab3e.github.io/Portfolio/" target="_blank">**Website**</a>.
   
-- ⚡ I’m currently learning **RTK, TypeScript and Three.js**.
+- 📄 Know about my experiences via my <a href="https://drive.google.com/file/d/1H3zKGvey9L-hwqAtvdU8GxqHdx6RPKoA/view" target="_blank">**Resume**</a>.
+
+- 📫 Reach me via E-mail: **ahmed.eltabiie@gmail.com**
+  
+- ⚡ I’m currently learning **RTK, Jest and Three.js**.
 
 - 💬 Ask me about **React, Next.js and Accessibility**.
-
-- 📄 Know about my experiences via my <a href="https://drive.google.com/file/d/1H3zKGvey9L-hwqAtvdU8GxqHdx6RPKoA/view" target="_blank">**Resume**</a>.
-  
-- 📫 Reach me via E-mail: **ahmed.eltabiie@gmail.com**
   
 <br/>
 
