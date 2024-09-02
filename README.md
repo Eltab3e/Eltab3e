@@ -13,8 +13,6 @@
 - 📫 Reach me via E-mail: **ahmed.eltabiie@gmail.com**
   
 - ⚡ I’m currently learning **RTK, Jest and Three.js**.
-
-- 💬 Ask me about **React, Next.js and Accessibility**.
   
 <br/>
 
