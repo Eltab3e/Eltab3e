@@ -8,7 +8,7 @@
 
 - 🔭 Checkout my <a href="https://eltab3e.github.io/Portfolio/" target="_blank">**Website**</a>.
 
-- 📄 Know about my experiences via my <a href="https://drive.google.com/file/d/1mLpRjUc4tbmJrQ-5X8fZ2ml1DOJOzDwJ/view?usp=sharing" target="_blank">**Resume**</a>.
+- 📄 Know about my experiences via my <a href="https://drive.google.com/file/d/1pNJnV5zcVFuXFUEg-vs7y-bQpwqCNX8F/view?usp=sharing" target="_blank">**Resume**</a>.
 
 - 📫 Reach me via E-mail: **ahmed.eltabiie@gmail.com**
   
