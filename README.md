@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=black&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css&logoColor=black&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-React_Query-FF4154?logo=react-query&logoColor=black&style=for-the-badge" />
