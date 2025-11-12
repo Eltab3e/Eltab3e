@@ -23,19 +23,20 @@
 
 <h2 align="left">Tech Stack:</h2>
 <p align="left">
-  <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=black" height="30" />
+  <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=black" height="30" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" height="30" />
-  <img src="https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=black" height="30" />
   <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black" height="30" />
   <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/-React_Query-FF4154?logo=react-query&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/-Redux_Toolkit-646CFF?logo=redux&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/-Styled_Components-DB7093?logo=styled-components&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/-Material_UI-007FFF?logo=mui&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/-React_Query-FF4154?logo=react-query&logoColor=black" height="30" />
+  <img src="https://img.shields.io/badge/-Redux_Toolkit-646CFF?logo=redux&logoColor=black" height="30" />
+  <img src="https://img.shields.io/badge/-Zustand-7c3f00" height="30" />
+  <img src="https://img.shields.io/badge/-Ant_Design-0170FE?logo=antdesign&logoColor=black" height="30" />
+  <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=black" height="30" />
+  <img src="https://img.shields.io/badge/-Shadcn-000000?logo=shadow&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/-React_Hook_Form-EC5990?logo=reacthookform&logoColor=black" height="30" />
+  <img src="https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=black" height="30" />
   <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" height="30" />
 </p>
 
