@@ -16,10 +16,7 @@
   
 <br/>
 
-<div align="left">
-  <img src="https://drive.google.com/uc?id=1kPsi-5WLkuF3LLWEY8E3U13p3kWIqnjT" alt="portfolio-image-1" width="900">
-  <img src="https://drive.google.com/uc?id=1WFZFvmxniWL2qansViXwR139BHy1P7m-" alt="portfolio-image-2" width="900">
-</div>
+![pacman_gif](https://github.com/Eltab3e/Eltab3e/blob/output/pacman-contribution-graph-dark.svg)
 
 <h2 align="left">Tech Stack:</h2>
 <p align="left">
@@ -38,11 +35,6 @@
   <img src="https://img.shields.io/badge/-React_Hook_Form-EC5990?logo=reacthookform&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
-</p>
-
-<h3 align="left">Language stats:</h3>
-<p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eltab3e&show_icons=true&theme=dark&title_color=ffffff&locale=en&layout=compact" alt="stats" />
 </p>
 
 <h3 align="left">Connect with me:</h3>
